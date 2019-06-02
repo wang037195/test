@@ -1,5 +1,5 @@
 public class Test(){
 	public static void main{
-		System.out.println("上传文件")；
+		System.out.println("绗竴涓猤it椤圭洰");
 	}
 }
